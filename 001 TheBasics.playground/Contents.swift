@@ -1,5 +1,5 @@
 
-// let
+// 常量:let
 let x = 10
 // 变量: var
 var y = 5
